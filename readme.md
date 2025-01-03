@@ -1,11 +1,11 @@
-# Deep Learning Final Project ReadMe
+# Deep Learning Final
 ## Team Members
 - U Adithyan: CS23BTNCL11001
 - Shiv Tikoo: CS23BTNRK11001
 ## Note
 - The coding was done on Kaggle, and the file names needs to be changed to run on local machine.
 - The public data used was is avilable at https://www.kaggle.com/datasets/huanghanchina/pascal-voc-2012
-- The saved models can be found in Models folder.
+- The saved models can be found in Models folder (zipped due to size).
 ## File Descriptions
 - Teacher.ipynb: This file contains the code for the teacher model (ResNet18) being finetuned of PascalVOC20212 data.
 - Vanilla Student.ipynb: This file contains the code for the student model (MobileNetV2) being finetuned of PascalVOC20212 data.
